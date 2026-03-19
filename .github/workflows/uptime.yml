@@ -1,0 +1,33 @@
+name: Update Uptime Badge
+
+on:
+  schedule:
+    # 매일 한국 시간 기준 자정(UTC 15:00)에 실행
+    - cron: "0 15 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v3
+
+      - name: 파이썬 환경 설정
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 의존성 패키지 설치
+        run: pip install python-dateutil
+
+      - name: Uptime 업데이트 스크립트 실행
+        run: python update_uptime.py
+
+      - name: 변경사항 커밋 및 푸시
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "docs: 일일 Uptime 배지 업데이트" || echo "No changes to commit"
+          git push
