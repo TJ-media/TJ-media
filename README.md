@@ -23,8 +23,9 @@
 <h2> 연락처 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
 <a href="mailto:oganesson12@gmail.com"> <img height="32px" align="center" src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Gmail&amp;color=EA4335&amp;logo=Gmail&amp;logoColor=FFFFFF&amp;label="></a>
 <a href="https://www.instagram.com/tj._.media"> <img height="32px" align="center" src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Instagram&amp;color=E4405F&amp;logo=Instagram&amp;logoColor=FFFFFF&amp;label="></a> 
-<a href="https://www.github.com/TJ-media"> <img height="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
+<a href="https://github.com/TJ-media"><img src="https://img.shields.io/github/followers/TJ-media?label=Follow&amp;style=social" alt="Github"></a>
 
+<br><br>
 
 <table align="center">
   <thead>
@@ -35,7 +36,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TJ-media&amp;theme=tokyonight&amp;layout=compact" alt="Top Langs"></td>
+      <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TJ-media&amp;theme=tokyonight&amp;layout=compact" alt="Top Langs"></td>
       <td align="center"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=oganesson12" alt="Solved.ac Profile"></td>
     </tr>
   </tbody>
