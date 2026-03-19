@@ -20,6 +20,12 @@
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </p>
 
+<h2> 연락처 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
+<a href="mailto:oganesson12@gmail.com"> <img height="32px" align="center" src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Gmail&amp;color=EA4335&amp;logo=Gmail&amp;logoColor=FFFFFF&amp;label="></a>
+<a href="https://www.instagram.com/tj._.media"> <img height="32px" align="center" src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Instagram&amp;color=E4405F&amp;logo=Instagram&amp;logoColor=FFFFFF&amp;label="></a> 
+<a href="https://www.github.com/TJ-media"> <img height="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
+
+
 <table align="center">
   <thead>
     <tr>

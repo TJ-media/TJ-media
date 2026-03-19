@@ -1,59 +1,62 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="450px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,Monaco,monospace" width="850px" height="520px" font-size="13px">
     <style>
-        @font-face {
-        src: local('Consolas'), local('Consolas Bold');
-        font-family: 'ConsolasFallback';
-        font-display: swap;
-        }
         .key {fill: #ffa657;}
         .value {fill: #a5d6ff;}
         .cc {fill: #616e7f;}
         text, tspan {white-space: pre;}
     </style>
-    <rect width="985px" height="450px" fill="#161b22" rx="15"/>
-    <text x="15" y="30" fill="#c9d1d9" class="ascii">
-        <tspan x="15" y="30">                    ..::,. I1I~~+I.                    </tspan>
-        <tspan x="15" y="50">                 I+@☻☻♥♥♦☻#▓♦♥♦♦♦♥☻☺+:                 </tspan>
-        <tspan x="15" y="70">              1>░☻♦♦♦♦♦♦♣♦♦♣♣♣♣♦♣♣♦♦▒☻▓I               </tspan>
-        <tspan x="15" y="90">            ;W♥♥♦♥♣♦♣♦♦♦♦♦♦♣♣♦♣♣♣♣♦♦♦♥☻☻@i             </tspan>
-        <tspan x="15" y="110">          .=♥☻☻♦♦♦♣♣♦♦♣♣♣♦♣♦♣☻♥♦♣♣♦♦♥♥♥☻☺☻>,           </tspan>
-        <tspan x="15" y="130">          $♥♥☻♥♥♦♦♦♣♦♥♥♥☻♦☻♦♥☻☺☻♥♦♥☻♥♥☺░♥♦♥░1          </tspan>
-        <tspan x="15" y="150">         ▓♥♥♥☻☻░♥♦♣♠♣♦☻░$%WMM#W@▓☺☻♥▒░☻☻☻♦♥☻▒I         </tspan>
-        <tspan x="15" y="170">        =♥♣♦♥☻♥☻☻♦█♥☻☻█&amp;>|IttI!~*&amp;$☺█▒█▒☺☺☻█☻@         </tspan>
-        <tspan x="15" y="190">        &lt;☻☻░☺☻♥☻▓▓░▓☺▒@M~It11tI|~*$☻░☺☺░▓▒☻☻♥☺:        </tspan>
-        <tspan x="15" y="210">        █♥♥♥♣♣♠♦♦♦♦♥☻♥☺#~l11i1tl=%░☻♥♦♥☻☻♥♦♦♥♥%        </tspan>
-        <tspan x="15" y="230">        ▓♣♣♣♠♣♣♣♣♣♦♣♦♣▓*+lt1i1tI|>▒♦♥♦♦☻♥♥♥♥☺☻%        </tspan>
-        <tspan x="15" y="250">        :♣♦♦♦♦♣♠♣♦♣♣♣░>ltt11i11ttI~█☻☺♥♥♥♥☺☺☻░+        </tspan>
-        <tspan x="15" y="270">         ☻♦♥♥♥♥♥░WM*~lI1i1iii111ttI|l+%▓▓▒░☺♥▓         </tspan>
-        <tspan x="15" y="290">         %♦☺W==*%W%>@@&amp;&amp;=|tt1tl!&lt;%@$W&amp;M#=+M░☺*         </tspan>
-        <tspan x="15" y="310">         .☺▓~!!!!|lIttI|||IttI!++|lIIl|||||@▒.         </tspan>
-        <tspan x="15" y="330">         :I█!!|!~=$W☻♥$~!lIiiI!++█♥☺MW~!|l|Wt.+        </tspan>
-        <tspan x="15" y="350">         *=$!||!~+!~!+!!l|l11I||+=*!&lt;&lt;=+lIl#=~~+       </tspan>
-        <tspan x="15" y="370">         >++!|llItIIItttIll1tIlIttttttttIIl*~++~       </tspan>
-        <tspan x="15" y="390">          +~!|lIt111111tl|I11IlItii1111tIl|&lt;&lt;!+t       </tspan>
-        <tspan x="15" y="410">          ~++!|lt1iiii1I||l1tI|lt1ii111tIl|+++l        </tspan>
-        <tspan x="15" y="430">          ~+=+!lIt1111t||lIi1tl|liiiiittl||!=|         </tspan>
+    <rect width="850px" height="520px" fill="#161b22" rx="15"/>
+    <text x="15" y="26" fill="#6e7681" class="ascii">
+        <tspan x="15" y="26">              .:ii:,;l+|1,              </tspan>
+        <tspan x="15" y="42">            +░♥♦♦♦♦♥♦♣♣♣♦♥░!            </tspan>
+        <tspan x="15" y="58">         1█♥♦♦♣♣♣♣♣♣♣♣♣♣♣♦♦☻☻#          </tspan>
+        <tspan x="15" y="74">       .&amp;☻♥♦♦♦♣♣♦♣♦♣♣♦♦♣♣♦♥♥♥♥☻l        </tspan>
+        <tspan x="15" y="90">      ,░☻☺♦♥♣♦♣♦♦☻♥♥☻░☺☻♥♥☺♥☻♥♦♥=       </tspan>
+        <tspan x="15" y="106">      *♦♦♦☻░♥☺♦♥▓#+ll|=#@░▒░☺☺♥░░|      </tspan>
+        <tspan x="15" y="122">     .▒♥☺♥♦♥☻☻░▓$&gt;lt1tl~W░☻☺☺☺☺☻♥M      </tspan>
+        <tspan x="15" y="138">      ░♦♠♣♠♣♣♣♦♦▓=l111t+@☻♦♥☻♥♥♦♥$      </tspan>
+        <tspan x="15" y="154">      W♣♦♣♣♠♣♣♣♥&gt;It111tI!%♥♦♥♥♦☻☻&amp;      </tspan>
+        <tspan x="15" y="170">      +♥♦░☺▓@%W*~It1i1tI|~&lt;#%W$☺☻~      </tspan>
+        <tspan x="15" y="186">      ,☻█~+~+|ll++!ItI+=&lt;~|!++|&amp;▓:      </tspan>
+        <tspan x="15" y="202">      ,&gt;%!!!=W$▓W!|t1I+~$█&amp;*+||&gt;!t.     </tspan>
+        <tspan x="15" y="218">      t~M!||+!|+|l|I1l|||+|!!ll&lt;~~~     </tspan>
+        <tspan x="15" y="234">      :!=!|It1111IlItIlt1111tIl+~+l     </tspan>
+        <tspan x="15" y="250">       +++|It1111||Itl|I1111tI|+++      </tspan>
+        <tspan x="15" y="266">       |~~!lIt11I+~ItI!|11i1Il|!+,      </tspan>
+        <tspan x="15" y="282">        i++|ltttIl|l||lt111tl|!:        </tspan>
+        <tspan x="15" y="298">         ,~!lIIIIIlIIIIIlIIIl||         </tspan>
+        <tspan x="15" y="314">          l~!lII!&lt;&lt;===&lt;=|lll|!.         </tspan>
+        <tspan x="15" y="330">           ==!lIIIll|lllIIl|+1          </tspan>
+        <tspan x="15" y="346">           I&gt;&lt;!lItttttttIl!~+.          </tspan>
+        <tspan x="15" y="362">           t+=**~lIIIIIl+&lt;=!!           </tspan>
+        <tspan x="15" y="378">           |!!!~&lt;***&gt;&gt;&gt;&lt;~!!||.          </tspan>
+        <tspan x="15" y="394">         iW!|lll||lll|||llIIl&gt;=,        </tspan>
+        <tspan x="15" y="410">      :#▒░&amp;|lIttIIIIItIIt1ttI~▒▓█l      </tspan>
+        <tspan x="15" y="426">.t&gt;%▓░☺☺☺☺▒+ltt1ttttttt1111tl&amp;░░░▒▒▓$M!,</tspan>
+        <tspan x="15" y="442">░☺☺☺☺☺☻☻☻☻☻☺%+It11t1111ii1t&lt;▒☺☺☺░☺☺░░░░▒</tspan>
+        <tspan x="15" y="458">☻☻☻☻☺☻☺☺☻☻☻☻☻☻☺%~Itt111I&lt;█☺☺☺☺☺☺☺☺☺☺☺☺░░</tspan>
     </text>
-    <text x="390" y="30" fill="#c9d1d9">
-        <tspan x="390" y="30">taejeong@github</tspan> -————————————————————————————————————————-—-
-        <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">macOS / Windows / Linux</tspan>
-        <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Computer Science Student</tspan>
-        <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Seoul, South Korea</tspan>
-        <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Fullstack Developer</tspan>
-        <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VS Code, IntelliJ IDEA</tspan>
-        <tspan x="390" y="150" class="cc">. </tspan>
-        <tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Java, Python, JavaScript, TypeScript</tspan>
-        <tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">React, Spring Boot, Firebase, Vite</tspan>
-        <tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Tools</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">AWS, Docker, Git</tspan>
-        <tspan x="390" y="230" class="cc">. </tspan>
-        <tspan x="390" y="270">- Contact</tspan> -——————————————————————————————————————————————-—-
-        <tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">oganesson12@gmail.com</tspan>
-        <tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">@tj._.media</tspan>
-        <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">TJ-media</tspan>
-        <tspan x="390" y="370">- Tech Stack</tspan> -————————————————————————————————————————————-—-
-        <tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Frontend</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">React, TypeScript, Vite, Tailwind</tspan>
-        <tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Backend</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Spring Boot, Firebase, Python</tspan>
-        <tspan x="390" y="430" class="cc">. </tspan><tspan class="key">DevOps</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">AWS, Docker, Git</tspan>
+    <text x="340" y="26" fill="#c9d1d9">
+        <tspan x="340" y="26">taejeong@github</tspan><tspan class="cc"> ——————————————————————————————</tspan>
+        <tspan x="340" y="42" class="cc">  </tspan><tspan class="key">OS</tspan><tspan class="cc">: .................... </tspan><tspan class="value">macOS / Windows / Linux</tspan>
+        <tspan x="340" y="58" class="cc">  </tspan><tspan class="key">Uptime</tspan><tspan class="cc">: .............. </tspan><tspan class="value">Computer Science Student</tspan>
+        <tspan x="340" y="74" class="cc">  </tspan><tspan class="key">Host</tspan><tspan class="cc">: ................... </tspan><tspan class="value">Seoul, South Korea</tspan>
+        <tspan x="340" y="90" class="cc">  </tspan><tspan class="key">Kernel</tspan><tspan class="cc">: ................. </tspan><tspan class="value">Fullstack Developer</tspan>
+        <tspan x="340" y="106" class="cc">  </tspan><tspan class="key">IDE</tspan><tspan class="cc">: .................. </tspan><tspan class="value">VS Code, IntelliJ IDEA</tspan>
+        <tspan x="340" y="122"></tspan>
+        <tspan x="340" y="138" class="cc">  </tspan><tspan class="key">Languages.Programming</tspan><tspan class="cc">: </tspan><tspan class="value">Java, Python, JS, TS</tspan>
+        <tspan x="340" y="154" class="cc">  </tspan><tspan class="key">Languages.Frameworks</tspan><tspan class="cc">: . </tspan><tspan class="value">React, Spring, Firebase</tspan>
+        <tspan x="340" y="170" class="cc">  </tspan><tspan class="key">Languages.Tools</tspan><tspan class="cc">: ....... </tspan><tspan class="value">AWS, Docker, Git</tspan>
+        <tspan x="340" y="186"></tspan>
+        <tspan x="340" y="202">- Contact</tspan><tspan class="cc"> ————————————————————————————————————</tspan>
+        <tspan x="340" y="218" class="cc">  </tspan><tspan class="key">Email</tspan><tspan class="cc">: ................. </tspan><tspan class="value">oganesson12@gmail.com</tspan>
+        <tspan x="340" y="234" class="cc">  </tspan><tspan class="key">Instagram</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">@tj._.media</tspan>
+        <tspan x="340" y="250" class="cc">  </tspan><tspan class="key">GitHub</tspan><tspan class="cc">: ......................... </tspan><tspan class="value">TJ-media</tspan>
+        <tspan x="340" y="266"></tspan>
+        <tspan x="340" y="282">- Tech Stack</tspan><tspan class="cc"> —————————————————————————————————</tspan>
+        <tspan x="340" y="298" class="cc">  </tspan><tspan class="key">Frontend</tspan><tspan class="cc">: ......... </tspan><tspan class="value">React, TypeScript, Vite</tspan>
+        <tspan x="340" y="314" class="cc">  </tspan><tspan class="key">Backend</tspan><tspan class="cc">: ........... </tspan><tspan class="value">Spring Boot, Firebase</tspan>
+        <tspan x="340" y="330" class="cc">  </tspan><tspan class="key">DevOps</tspan><tspan class="cc">: ................ </tspan><tspan class="value">AWS, Docker, Git</tspan>
     </text>
 </svg>
