@@ -5,6 +5,11 @@
   </picture>
 </a>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Uptime-27%EB%85%84%200%EA%B0%9C%EC%9B%94%207%EC%9D%BC-000000?style=for-the-badge&logo=clock&logoColor=white" alt="Life Uptime">
+</div>
+<br>
+
 <h2> 기술 스택 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
 <p>
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
